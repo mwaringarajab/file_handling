@@ -1,0 +1,4 @@
+Hello, World!
+This is a sample file for testing.
+Python is fun.
+Let's learn file handling!
